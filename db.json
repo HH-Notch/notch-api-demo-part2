@@ -1,14 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "how-was-day": {
+    "user_name": {
+      "name": "혜도니"
+    },
+
+    "todo_feedback": {
+      "turn": 1
+    },
+    "next_day_briefing": {
+      "turn": 1
+    },
+    "health": {
+      "turn": 1
+    }
+  },
+  "write-diary": {
+    "diary": {
+      "turn": 1
+    },
+    "brainer": {
+      "turn": 1,
+      "play_list": [
+        {
+          "id": 1,
+          "playlistName": "6시간",
+          "link": "https://youtu.be/zCW-O6_LEz8"
+        },
+        {
+          "id": 2,
+          "playlistName": "7시간반",
+          "link": "https://youtu.be/2XS0ptK2QCI"
+        }
+      ]
+    }
   }
 }
