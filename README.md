@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/HH-Notch/notch-api-demo-part2](https://my-json-server.typicode.com/HH-Notch/notch-api-demo-part2)
 
 ## Use your own data
 
